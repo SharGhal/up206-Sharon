@@ -1,4 +1,4 @@
-# up206-Sharon
+# up206a-Sharon
 Hi! My name is Sharon Ghalchi, and I am a second year MURP in the Design and Development concentration. My main focus is on housing and real estate development. I am a Los Angeles native, and would like to stay and work in Los Angles in the future. Currently, I am working at “A Community of Friends”, one of the oldest and largest providers of permanent affordable housing in Southern California, as a housing development intern. 
 
 **Description of Course:** From my understanding, this course will introduce us to the virtual world of spatial data analytics that we can use to “critically describe, analyze, and visualize spacial data” as future planners.  First, we will learn how to use GitHub and Jupyter to assist us in developing our coding skills. Once we become more familiar with coding, we will learn how to explore and evaluate urban data, and we will use our data and analysis to create visuals (maps, tables, charts) that help communicate our findings. 
