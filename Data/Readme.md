@@ -3,7 +3,7 @@
 1. *Name of Dataset:* Affordable Housing Development
 2. *Data Description:* This dataset displays the location of affordable housing development projects in the City of Los Angeles as of August 2020. This data can be used to show where affordable housing is currently being built, but we can also analyze this data to help identify possible hotspots of affordable housing development within the city.
 3. [Source](https://geohub.lacity.org/datasets/lahub::affordable-housing-development/about)
-4. [Data in repo](https://github.com/SharGhal/up206-Sharon/blob/ec04941d079a4b1b92b51b47fd3a38ddc2bd04fa/Individual%20Projects/Data/Affordable_Housing_Development.csv)
+4. [Data in repo](https://github.com/SharGhal/up206a-Sharon/blob/24ea5c5eb566f5f45049caf916db61da136f2802/Data/Affordable_Housing_Development.csv)
 
 
 **HUD Empowerment Zones in Los Angeles**
